@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2933138.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-size: 16px;
+    font-family: Arial,sans-serif;
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+p{
+    color: palevioletred;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+a{
+    color: palevioletred;
+}
+
+a:hover{
+    text-decoration: none;
+    color: rgb(75, 15, 48);
+}
+
+footer{
+    text-align: center;
+    margin-top: 3rem;
+    color: palevioletred;
+}
